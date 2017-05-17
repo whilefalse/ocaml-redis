@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.5
+
+* Support of Redis cluster and mass insert (thanks Louis Roché and ahrefs.com)
+
 ## 0.3.4
 
 * Port to jbuilder (thanks Rudi Grinberg)
